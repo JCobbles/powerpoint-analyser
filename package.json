@@ -1,0 +1,17 @@
+{
+  "name": "powerpoint-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cull-keywords": "^1.0.2",
+    "gramophone": "0.0.3",
+    "textract": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
