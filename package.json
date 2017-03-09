@@ -6,6 +6,8 @@
   "dependencies": {
     "cull-keywords": "^1.0.2",
     "gramophone": "0.0.3",
+    "node-summary": "^1.1.0",
+    "nodejs-text-summarizer": "^2.0.3",
     "textract": "^2.1.1"
   },
   "devDependencies": {},
