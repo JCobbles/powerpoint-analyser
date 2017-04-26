@@ -194,6 +194,7 @@ function f(dirPath, what) {
         console.log(`title: ${title}`)
         const client = extractClient(id, this.thisModule);
         const names = JSON.stringify(extractTeam(id, this.thisModule));
+        console.log(names);
         const imageUrl = convertToImage(this.file);
         const youtube = extractYoutubeLink(id, this.thisModule);
         const mdPath = path.dirname(this.output) + `/output/${getModuleDate(this.thisModule)}-${title}.md`;
